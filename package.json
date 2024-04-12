@@ -1,0 +1,14 @@
+{
+  "name": "priya-ui",
+  "version": "0.0.1",
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ui", "News Ticker", "vertical marquee", "scroller"
+  ],
+  "author": "Priyabrata",
+  "license": "ISC"
+}
